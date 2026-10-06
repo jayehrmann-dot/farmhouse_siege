@@ -7,6 +7,10 @@ fires when a zombie is near. Every broken window makes the house harder to
 defend. Retreat to the cellar for safety, but if the dead crowd the hatch you
 may trap everyone inside. Atari 2600 looks, one screen, inside your terminal.
 
+<p align="center">
+<img width="566" height="425" alt="farmhouse_siege" src="https://github.com/user-attachments/assets/6ba03a67-90b4-40f1-a969-fa86b29d344f" />
+</p>
+
 ```bash
 ./play.sh [easy|normal|hard]
 ```
